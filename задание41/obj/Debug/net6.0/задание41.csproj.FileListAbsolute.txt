@@ -1,0 +1,15 @@
+C:\Users\yakub\OneDrive\Рабочий стол\семинар6\задание41\bin\Debug\net6.0\задание41.exe
+C:\Users\yakub\OneDrive\Рабочий стол\семинар6\задание41\bin\Debug\net6.0\задание41.deps.json
+C:\Users\yakub\OneDrive\Рабочий стол\семинар6\задание41\bin\Debug\net6.0\задание41.runtimeconfig.json
+C:\Users\yakub\OneDrive\Рабочий стол\семинар6\задание41\bin\Debug\net6.0\задание41.dll
+C:\Users\yakub\OneDrive\Рабочий стол\семинар6\задание41\bin\Debug\net6.0\задание41.pdb
+C:\Users\yakub\OneDrive\Рабочий стол\семинар6\задание41\obj\Debug\net6.0\задание41.csproj.AssemblyReference.cache
+C:\Users\yakub\OneDrive\Рабочий стол\семинар6\задание41\obj\Debug\net6.0\задание41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakub\OneDrive\Рабочий стол\семинар6\задание41\obj\Debug\net6.0\задание41.AssemblyInfoInputs.cache
+C:\Users\yakub\OneDrive\Рабочий стол\семинар6\задание41\obj\Debug\net6.0\задание41.AssemblyInfo.cs
+C:\Users\yakub\OneDrive\Рабочий стол\семинар6\задание41\obj\Debug\net6.0\задание41.csproj.CoreCompileInputs.cache
+C:\Users\yakub\OneDrive\Рабочий стол\семинар6\задание41\obj\Debug\net6.0\задание41.dll
+C:\Users\yakub\OneDrive\Рабочий стол\семинар6\задание41\obj\Debug\net6.0\refint\задание41.dll
+C:\Users\yakub\OneDrive\Рабочий стол\семинар6\задание41\obj\Debug\net6.0\задание41.pdb
+C:\Users\yakub\OneDrive\Рабочий стол\семинар6\задание41\obj\Debug\net6.0\задание41.genruntimeconfig.cache
+C:\Users\yakub\OneDrive\Рабочий стол\семинар6\задание41\obj\Debug\net6.0\ref\задание41.dll
